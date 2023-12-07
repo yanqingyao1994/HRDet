@@ -10,6 +10,16 @@ Object detection in remote sensing images has garnered significant attention due
 
 ## The code will be updated soon!
 
+### Benchmark
+
+| Model | Backbone | Dataset | Lr schd |  mAP |
+|:-:|:-:|:-:|:-:|:-:|
+| HRDet | R50-FPN | DIOR-R |1x  | 62.13 |
+| HRDet | R101-FPN | DIOR-R | 1x  | 62.58 |
+| HRDet | R50-FPN | DOTA1.0 | 1x  | 74.11 |
+| HRDet | R101-FPN | DOTA1.0 | 1x  | 74.50 |
+| HRDet | R50-FPN | DOTA2.0 | 1x  | 51.83 |
+
 ## Contact
 
-If you have any question, please email to eyao468@gmail.com.
+If you have any questions, please email eyao468@gmail.com.
